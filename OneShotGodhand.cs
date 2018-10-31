@@ -1,5 +1,6 @@
 ﻿//
 // 개발한 코드 중 Godhand라는 Skill 관련한 부분만 짜집기 한 파일입니다.
+// UseSkill 함수가 작동하면 CharacterSkillListener 내의 함수들이 연쇄적으로 실행됩니다.
 //
 
 using UnityEngine;
